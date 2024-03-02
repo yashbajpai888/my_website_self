@@ -39,11 +39,15 @@ h3:hover{
 }
 
 .footer-social{
-    margin:90px;
-    margin:0;
-
-    border: 1px darkmagenta dotted;
-    justify-content: right;
+    
+    position: absolute;
+    display: flex;
     
 }
-
+/*.footer-social:hover{
+    border: 1px darkmagenta solid;
+    padding: 5px;
+}*/
+.social-icons:hover{
+        
+}
